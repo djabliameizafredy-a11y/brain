@@ -1,0 +1,6 @@
+{
+  "name": "Second Brain",
+  "description": "Interactive dual-layout visualization proving Knowledge Graphs and Neural Networks share identical node-edge data structures through real-time morphing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
